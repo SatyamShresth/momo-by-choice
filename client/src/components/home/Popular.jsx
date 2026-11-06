@@ -31,7 +31,7 @@ export default function Popular() {
           <SectionHeading
             eyebrow="Guest favourites"
             title="Popular momos & chef's picks"
-            subtitle="Demo ke liye sample items. Asli menu admin dashboard se manage hoga."
+            // subtitle="Demo ke liye sample items. Asli menu admin dashboard se manage hoga."
           />
         </Reveal>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
